@@ -1,2 +1,2 @@
 Author: Antonio Gonzalez
-Purpose: COMP 002 - Lecture Activity 1
+Purpose: COMP 002 - Lecture Activity 1\
